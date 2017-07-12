@@ -1,0 +1,14 @@
+F:\腐蚀老版本\注入器\obj\x86\Debug\Loader.csprojResolveAssemblyReference.cache
+F:\腐蚀老版本\注入器\bin\Debug\JackeD Loader.exe
+F:\腐蚀老版本\注入器\bin\Debug\JackeD Loader.pdb
+F:\腐蚀老版本\注入器\bin\Debug\BlackMagic.dll
+F:\腐蚀老版本\注入器\obj\x86\Debug\JackeD Loader.exe
+F:\腐蚀老版本\注入器\obj\x86\Debug\JackeD Loader.pdb
+C:\Users\Administrator\Desktop\注入器\obj\x86\Debug\JackeD Loader.exe
+C:\Users\Administrator\Desktop\注入器\obj\x86\Debug\JackeD Loader.pdb
+C:\Users\Administrator\Desktop\FUCK\其他\Crust\注入器\bin\Debug\JackeD Loader.exe
+C:\Users\Administrator\Desktop\FUCK\其他\Crust\注入器\bin\Debug\JackeD Loader.pdb
+C:\Users\Administrator\Desktop\FUCK\其他\Crust\注入器\bin\Debug\BlackMagic.dll
+C:\Users\Administrator\Desktop\FUCK\其他\Crust\注入器\obj\x86\Debug\JackeD Loader.exe
+C:\Users\Administrator\Desktop\FUCK\其他\Crust\注入器\obj\x86\Debug\JackeD Loader.pdb
+C:\Users\Administrator\Desktop\FUCK\其他\Crust\注入器\obj\x86\Debug\Loader.csprojResolveAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\FUCK\其他\Crust\Jackwg\bin\Release\Mono.Posix.dll
+C:\Users\Administrator\Desktop\FUCK\其他\Crust\Jackwg\bin\Release\Mono.Posix.pdb
+C:\Users\Administrator\Desktop\FUCK\其他\Crust\Jackwg\bin\Release\Assembly-CSharp.dll
+C:\Users\Administrator\Desktop\FUCK\其他\Crust\Jackwg\bin\Release\Facepunch.Cursor.dll
+C:\Users\Administrator\Desktop\FUCK\其他\Crust\Jackwg\bin\Release\Facepunch.HitBox.dll
+C:\Users\Administrator\Desktop\FUCK\其他\Crust\Jackwg\bin\Release\Facepunch.ID.dll
+C:\Users\Administrator\Desktop\FUCK\其他\Crust\Jackwg\bin\Release\uLink.dll
+C:\Users\Administrator\Desktop\FUCK\其他\Crust\Jackwg\bin\Release\UnityEngine.dll
+C:\Users\Administrator\Desktop\FUCK\其他\Crust\Jackwg\obj\x86\Release\Mono.Posix.dll
+C:\Users\Administrator\Desktop\FUCK\其他\Crust\Jackwg\obj\x86\Release\Mono.Posix.pdb
+C:\Users\Administrator\Desktop\FUCK\其他\Crust\Jackwg\obj\x86\Release\1Jnbi1cBB2GEi4B4.csprojResolveAssemblyReference.cache

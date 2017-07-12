@@ -1,0 +1,10 @@
+F:\腐蚀老版本\Jackwg\obj\x86\Debug\1Jnbi1cBB2GEi4B4.csprojResolveAssemblyReference.cache
+F:\腐蚀老版本\Jackwg\bin\Debug\Assembly-CSharp.dll
+F:\腐蚀老版本\Jackwg\bin\Debug\Facepunch.Cursor.dll
+F:\腐蚀老版本\Jackwg\bin\Debug\Facepunch.ID.dll
+F:\腐蚀老版本\Jackwg\bin\Debug\uLink.dll
+F:\腐蚀老版本\Jackwg\bin\Debug\UnityEngine.dll
+F:\腐蚀老版本\Jackwg\bin\Debug\Mono.Posix.dll
+F:\腐蚀老版本\Jackwg\bin\Debug\Mono.Posix.pdb
+F:\腐蚀老版本\Jackwg\obj\x86\Debug\Mono.Posix.dll
+F:\腐蚀老版本\Jackwg\obj\x86\Debug\Mono.Posix.pdb

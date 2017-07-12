@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\FUCK\其他\Crust\注入器\bin\Release\JackeD Loader.exe
+C:\Users\Administrator\Desktop\FUCK\其他\Crust\注入器\bin\Release\JackeD Loader.pdb
+C:\Users\Administrator\Desktop\FUCK\其他\Crust\注入器\bin\Release\BlackMagic.dll
+C:\Users\Administrator\Desktop\FUCK\其他\Crust\注入器\bin\Release\Mono.Posix.dll
+C:\Users\Administrator\Desktop\FUCK\其他\Crust\注入器\obj\x86\Release\JackeD Loader.exe
+C:\Users\Administrator\Desktop\FUCK\其他\Crust\注入器\obj\x86\Release\JackeD Loader.pdb
+C:\Users\Administrator\Desktop\FUCK\其他\Crust\注入器\obj\x86\Release\Loader.csprojResolveAssemblyReference.cache
